@@ -1,6 +1,1 @@
-
-
-
-NEW TEST SYNC !
-овьлпапдлвапавв
-dfgdfgdfg
+Test repository for sync with self hosted gitlab instance
