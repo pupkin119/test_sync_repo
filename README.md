@@ -1,6 +1,5 @@
 
 
-
 NEW TEST SYNC !
 овьлпапдлвапавв
 вапвапвп
@@ -15,4 +14,4 @@ sdf
 dfogkdpofkgpodf 
 dfgodfkgpodkfg
 
-jdfigjfkgihfgh
+Test repository for sync with self hosted gitlab instance
